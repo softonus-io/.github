@@ -45,13 +45,15 @@ For business inquiries, partnerships, or just to say hello, feel free to contact
 
 Get to know the talented individuals who make up the heart and soul of Softonus:
 
-- ### Leadership:
+### Leadership:
+
+---
 
 1. **Erdenebold**
    - Role: CEO and Founder
    - Instagram: [ebokooo](https://instagram.com/ebokooo)
 
-- ### Development Team
+### Development Team:
 
 2. **Temuulen**
    - Role: DevOps, Backend Developer
@@ -65,13 +67,13 @@ Get to know the talented individuals who make up the heart and soul of Softonus:
    - Role: Frontend Developer
    - Instagram: [batmagnai_187](https://instagram.com/batmagnai_187)
 
-### 3D Team
+### 3D Team:
 
 5. **Zolzaya**
    - Role: 3D Artist
    - Instagram: [zolo.bn](https://instagram.com/zolo.bn)
 
-### Design Team
+### Design Team:
 
 6. **Vanga**
    - Role: UI/UX Designer
