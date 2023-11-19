@@ -1,7 +1,8 @@
 # Welcome to Softonus LLC's GitHub Profile 👋
 
-![Softonus LLC Logo](https://github.com/softonus-io/.github/blob/main/softonus-logo.jpg)
-
+<p align="center">
+  <img src="https://github.com/softonus-io/.github/blob/main/softonus-logo.jpg" alt="Softonus LLC Logo" width="200"/>
+</p>
 
 ## 🌟 About Us
 
