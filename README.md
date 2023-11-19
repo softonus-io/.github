@@ -47,7 +47,7 @@ Get to know the talented individuals who make up the heart and soul of Softonus:
 
 - ### Executive Team:
 
-   1\. **Erdenebold**
+   1\. **Erdenebold**:
          - Role: CEO and Founder
          - Instagram: [ebokooo](https://instagram.com/ebokooo)
 
