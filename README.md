@@ -45,7 +45,7 @@ For business inquiries, partnerships, or just to say hello, feel free to contact
 
 Get to know the talented individuals who make up the heart and soul of Softonus:
 
-- ### Leadership
+- ### Leadership:
 
 1. **Erdenebold**
    - Role: CEO and Founder
