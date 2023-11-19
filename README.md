@@ -49,32 +49,32 @@ Get to know the talented individuals who make up the heart and soul of Softonus:
 
    1\. **Erdenebold**
      - Role: CEO and Founder
-      - Instagram: [ebokooo](https://instagram.com/ebokooo)
+     - Instagram: [ebokooo](https://instagram.com/ebokooo)
 
 - ### Development Team:
 
    2\. **Temuulen**
-      - Role: DevOps, Backend Developer
-      - Instagram: [temka_722](https://instagram.com/temka_722)
+     - Role: DevOps, Backend Developer
+     - Instagram: [temka_722](https://instagram.com/temka_722)
 
    3\. **Azbayar**
-      - Role: Backend Developer
-      - Instagram: [ebokooo](https://instagram.com/ebokooo)
+     - Role: Backend Developer
+     - Instagram: [ebokooo](https://instagram.com/ebokooo)
    
    4\. **Batmagnai**
-      - Role: Frontend Developer
-      - Instagram: [batmagnai_187](https://instagram.com/batmagnai_187)
+     - Role: Frontend Developer
+     - Instagram: [batmagnai_187](https://instagram.com/batmagnai_187)
 
 - ### 3D Team:
 
    5\. **Zolzaya**
-      - Role: 3D Artist
-      - Instagram: [zolo.bn](https://instagram.com/zolo.bn)
+     - Role: 3D Artist
+     - Instagram: [zolo.bn](https://instagram.com/zolo.bn)
 
 - ### Design Team:
 
    6\. **Vanga**
-      - Role: UI/UX Designer
-      - Instagram: [uxvanga](https://instagram.com/uxvanga)
+     - Role: UI/UX Designer
+     - Instagram: [uxvanga](https://instagram.com/uxvanga)
 
 Thank you for visiting our GitHub profile! 🚀
