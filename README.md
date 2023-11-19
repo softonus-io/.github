@@ -51,7 +51,7 @@ Get to know the talented individuals who make up the heart and soul of Softonus:
    - Role: CEO and Founder
    - Instagram: [ebokooo](https://instagram.com/ebokooo)
 
-### Development Team
+### - Development Team
 
 2. **Temuulen**
    - Role: DevOps, Backend Developer
