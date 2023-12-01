@@ -64,22 +64,17 @@ Get to know the talented individuals who make up the heart and soul of Softonus:
      - Role: Backend Developer
      - Level: 2
      - Instagram: [ebokooo](https://instagram.com/ebokooo)
-   
-   4\. **Batmagnai**
-     - Role: Frontend Developer
-     - Level: 2
-     - Instagram: [batmagnai_187](https://instagram.com/batmagnai_187)
-
+       
 - ### 3D Team:
 
-   5\. **Zolzaya**
+   4\. **Zolzaya**
      - Role: 3D Artist
      - Level: 4
      - Instagram: [zolo.bn](https://instagram.com/zolo.bn)
 
 - ### Design Team:
 
-   6\. **Vanga**
+   5\. **Vanga**
      - Role: UI/UX Designer
      - Level: 3
      - Instagram: [uxvanga](https://instagram.com/uxvanga)
