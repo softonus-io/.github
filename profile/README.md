@@ -14,8 +14,8 @@ Our mission at Softonus is to transform ideas into extraordinary realities by se
 
 ## 🌐 Visit Us
 
-- **Website:** [softonus.io](https://softonus.com)
-- **Instagram:** [@softonus.io](https://instagram.com/softonus.llc)
+- **Website:** [softonus.com](https://softonus.com)
+- **Instagram:** [@softonus.llc](https://instagram.com/softonus.llc)
 - **Facebook:** [@softonus.io](https://facebook.com/softonus.io)
 
 ## 🛠️ Technologies & Expertise
